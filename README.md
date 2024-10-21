@@ -37,8 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="20" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="20" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/flutter/02569B" height="20" alt="flutter logo"  />
