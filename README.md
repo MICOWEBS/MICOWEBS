@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=MICOWEBS&abbreviated=true)
 <h3 align="left">Hi 👋! My name is miracle and I am an innovative web designer with a knack for transforming ideas into stunning, user-centric websites. With [3] years of experience in the industry, I specialize in crafting seamless digital experiences that captivate users and drive engagement. My passion lies in blending aesthetic design with intuitive functionality to create websites that not only look incredible but also perform flawlessly</h3>
 
 ###
